@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(170, 59, 221);
+    
+}
+#h1one{
+    color:rgb(255, 255, 255);
+    background-color: rgb(71, 218, 205);
+    border-radius: 20px;
+}
+.btn_design{
+background-color: cyan;
+color:rgb(205, 50, 50);
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-weight: 900;
+}
+
+button:hover{
+    background-color: rgb(51, 235, 60); 
+    padding-left: 20px;
+    padding-right: 20px;
+   
+}
+
